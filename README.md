@@ -1,7 +1,7 @@
 
 
 
-# 🌟 Machine Learning Programs
+#  Machine Learning Programs
 
 A beginner-friendly collection of machine learning models, workflows, and experiments.This repository includes simple, well-structured examples covering data preprocessing, model building, hyperparameter tuning, pipelines, visualizations, and evaluation.
 Each notebook is designed to help learners understand ML concepts step-by-step through practical implementation.
